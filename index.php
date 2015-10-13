@@ -12,6 +12,8 @@
 	while($i>5){
 		echo "imprimiendo ".$i."<br>";
 		$i--;
+
+		 ya no sirve esto oeee Gara
 	}
 	echo "</strong>";
 
