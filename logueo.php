@@ -1,11 +1,11 @@
-<?php
+﻿<?php
 //$Usuario=$_POST["USUARIO"];
 //extract($_POST);
 //$clave=$_POST["PASSWORD"];
 session_start();
 if (!empty($_POST)) {
 	extract($_POST);
-
+//esto es un cambio
 if($Usuario=="ADMIN" && $clave=="ADMIN"){
 	$_SESSION["INICIOSESION"]=1;
 	header("Location:formulario.php");
