@@ -1,6 +1,8 @@
 <?php
 	$num1=4;
 	$num2=9;
+	$mul=$num1*$num2;
+	echo $mul;
 	/*$suma=$num2+$num1;
 	echo $suma;
 	echo "el primer valor es:";
