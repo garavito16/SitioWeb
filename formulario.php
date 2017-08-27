@@ -28,7 +28,7 @@
 	else if($op=='*') $result=$num*$num2;
 	else if($op=='/') $result=$num/$num2;
 	else $result="no es una operaci&oacute;n valida";*/
-
+//JODIENDO TU PROYECTO 
 	$result=($op=='+')?($result=$num+$num2):
 			(($op=='-')?($result=$num-$num2):
 			(($op=='*')?($result=$num*$num2):
