@@ -3,6 +3,7 @@
 	if ($_SESSION["INICIOSESION"]!=1) {
 		header("Location:logueo.php");
 	}
+	// hola mundo probando
 	$num=$_GET["NumeroA"];
 	$num2=$_GET["NumeroB"];
 	$op=$_GET["operador"];

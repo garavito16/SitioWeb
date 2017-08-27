@@ -12,9 +12,10 @@ if($Usuario=="ADMIN" && $clave=="ADMIN"){
 } else echo "USUARIO o contraseña no valida";
 }
 ?>
-
+// jajajajjajajajajjaja
 <!DOCTYPE HTML>
 <HTML>
+	// ya se como se hace
 	<HEAD>
 		<TITLE> LOGUEO CON HTML5 </TITLE>
 	</HEAD>
